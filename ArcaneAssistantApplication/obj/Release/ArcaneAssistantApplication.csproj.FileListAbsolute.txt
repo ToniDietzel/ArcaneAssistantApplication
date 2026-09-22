@@ -1,0 +1,7 @@
+C:\Users\ttdie\OneDrive\Projekte\ArcaneAssistantApplication\ArcaneAssistantApplication\bin\Release\ArcaneAssistantApplication.exe.config
+C:\Users\ttdie\OneDrive\Projekte\ArcaneAssistantApplication\ArcaneAssistantApplication\bin\Release\ArcaneAssistantApplication.exe
+C:\Users\ttdie\OneDrive\Projekte\ArcaneAssistantApplication\ArcaneAssistantApplication\bin\Release\ArcaneAssistantApplication.pdb
+C:\Users\ttdie\OneDrive\Projekte\ArcaneAssistantApplication\ArcaneAssistantApplication\obj\Release\ArcaneAssistantApplication.csproj.AssemblyReference.cache
+C:\Users\ttdie\OneDrive\Projekte\ArcaneAssistantApplication\ArcaneAssistantApplication\obj\Release\ArcaneAssistantApplication.csproj.CoreCompileInputs.cache
+C:\Users\ttdie\OneDrive\Projekte\ArcaneAssistantApplication\ArcaneAssistantApplication\obj\Release\ArcaneAssistantApplication.exe
+C:\Users\ttdie\OneDrive\Projekte\ArcaneAssistantApplication\ArcaneAssistantApplication\obj\Release\ArcaneAssistantApplication.pdb
