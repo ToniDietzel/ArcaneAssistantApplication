@@ -172,3 +172,7 @@ The project demonstrates the following practical skills:
 - Character data is stored in a simple delimiter-based text format.
 - There are no automated unit or UI tests yet.
 - The predefined fantasy data is maintained directly in the source code.
+
+## License
+
+No license has been added yet. All rights are reserved by the author unless a license is added to this repository.
